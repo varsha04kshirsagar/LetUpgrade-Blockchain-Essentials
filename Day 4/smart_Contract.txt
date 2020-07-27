@@ -1,0 +1,3 @@
+Test depolyment of the smart contract can be found @ https://ropsten.etherscan.io/tx/0xb0108e1b0cdcab2e94ce3c0ec82eda7a3ef8ebbf75536dcd3c24e477a449efd8
+
+https://ropsten.etherscan.io/tx/0xb0108e1b0cdcab2e94ce3c0ec82eda7a3ef8ebbf75536dcd3c24e477a449efd8
